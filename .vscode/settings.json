@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "editor.wrappingColumn": 0,
+	"prettier.tabWidth": 4,
     "files.exclude": {
 		"**/node_modules": {},
 		"typings": {},
